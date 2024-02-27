@@ -23,6 +23,6 @@ Software Development Engineer with 1 year of experience. Strong focus on backend
 - Frameworks & Tools:	Gorilla, Gin, Linux, Docker, CI/CD
 - IDE:	Visual Studio
 - Methodologies: Structured programming, Functional programming
-- Testing:	Functional testing, Unit testing.
+- Testing: Unit testing
 - Version Control:	Git
 
