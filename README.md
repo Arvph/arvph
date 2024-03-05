@@ -22,7 +22,7 @@ Software Development Engineer with 1 year of experience. Strong focus on backend
 - Languages:	Go, C
 - Frameworks & Tools:	Gorilla, Gin, Linux, Docker, CI/CD
 - IDE:	Visual Studio
-- Methodologies: Structured programming, Functional programming
+- Methodologies: Structured programming, OOP programming, Functional programming
 - Testing: Unit testing
 - Version Control:	Git
 
