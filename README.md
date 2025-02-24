@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 #### PROFESSIONAL SUMMARY
-Software Development Engineer with 1 year of experience. Strong focus on backend technologies: Go, C. Always interested in new web technologies and complex tasks. Reliable, communicative, and supportive team player who has the ability to work on a team or independently. 
+Software Developer with 2 years of experience. Strong focus on backend technologies: Go. Always interested in new web technologies and complex tasks. Reliable, communicative, and supportive team player who has the ability to work on a team or independently. 
 
 #### TECHNOLOGY SUMMARY
 - Languages:	Go, C, C++
